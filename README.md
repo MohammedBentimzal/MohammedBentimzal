@@ -69,8 +69,8 @@ Desktop reservation management app with calendar views and conflict detection.
 
 ## GitHub Stats
 
-![Mohammed's Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true&hide=stars)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default)
+![Mohammed's Stats](https://github-readme-stats.vercel.app/api?username=MohammedBentimzal&show_icons=true&theme=default&hide_border=true&count_private=true&hide=stars)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedBentimzal&layout=compact&hide_border=true&theme=default)
 
 ---
 
