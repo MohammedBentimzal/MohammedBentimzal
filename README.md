@@ -67,9 +67,9 @@ Worked cross-functionally with developers on content integration and UX improvem
 ## GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true&hide=stars&hide_title=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=MohammedBentimzal&show_icons=true&theme=default&hide_border=true&count_private=true&hide=stars&hide_title=true" />
   &nbsp;&nbsp;
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedBentimzal&layout=compact&hide_border=true&theme=default" />
 </p>
 
 ---
