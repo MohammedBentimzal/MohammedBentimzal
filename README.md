@@ -1,358 +1,290 @@
+<!-- ============================== HEADER ============================== -->
 <div align="center">
 
-# Mohammed Bentimzal
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:0e7490,100:0369a1&height=210&section=header&text=Mohammed%20Bentimzal&fontSize=44&fontColor=f8fafc&fontAlignY=36&desc=Cloud%20%26%20DevOps%20Engineering&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
 
-### Cloud & DevOps Engineering Enthusiast ☁️
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=14B8A6&center=true&vCenter=true&width=720&height=40&lines=Automating+infrastructure+%E2%98%81%EF%B8%8F;Building+cloud-native+solutions+%F0%9F%9A%80;Exploring+DevSecOps+%F0%9F%9B%A1%EF%B8%8F;Open+to+PFE+internships+%F0%9F%8E%AF" alt="Typing animation"/>
+</a>
 
-**Automating infrastructure · Building cloud-native solutions · Exploring DevSecOps**
+<br/>
 
-<p>
-  <a href="https://www.linkedin.com/in/mohammed-bentimzal-b326b733b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0284C7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mohammedbentimzal@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-38BDF8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <img src="https://img.shields.io/badge/Location-Morocco-7DD3FC?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-</p>
+<a href="https://www.linkedin.com/in/mohammed-bentimzal-b326b733b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0369a1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e293b" alt="LinkedIn"/>
+</a>
+<a href="mailto:mohammedbentimzal@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-0e7490?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e293b" alt="Email"/>
+</a>
+<img src="https://img.shields.io/badge/Morocco-Location-0f766e?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=1e293b" alt="Location"/>
 
-<p>
-  <img src="https://img.shields.io/badge/ENSA-Khouribga-0284C7?style=flat-square" alt="ENSA Khouribga"/>
-  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-38BDF8?style=flat-square" alt="Cloud and DevOps"/>
-  <img src="https://img.shields.io/badge/Graduation-June%202027-7DD3FC?style=flat-square" alt="Graduation"/>
-  <img src="https://img.shields.io/badge/Open%20to-PFE%20Internships-0284C7?style=flat-square" alt="Open to internships"/>
-</p>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ENSA-Khouribga-334155?style=flat-square" alt="ENSA Khouribga"/>
+<img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-0e7490?style=flat-square" alt="Focus"/>
+<img src="https://img.shields.io/badge/Graduation-June%202027-334155?style=flat-square" alt="Graduation"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20PFE-0f766e?style=flat-square" alt="Open to PFE"/>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<!-- ============================== ABOUT ============================== -->
+## 👋 About Me
 
-I'm a final-year Computer Engineering student at **ENSA Khouribga, Morocco**, specializing in Cloud, Security, and Software Engineering.
+Final-year Computer Engineering student at **ENSA Khouribga (Morocco)**, specializing in **Cloud, Security and Software Engineering**.
 
-I'm particularly interested in **Cloud & DevOps Engineering**, where software engineering meets infrastructure automation, cloud computing, and system reliability.
+I enjoy the space where **software engineering meets infrastructure**: automating provisioning, configuring servers, and shipping applications reliably. My latest project is an **Internal Developer Platform (IDP)** that lets developers deploy applications through a self-service interface, without managing infrastructure by hand.
 
-Through my projects and professional experience, I've developed applications and worked on automating infrastructure provisioning, server configuration, and application deployment. My latest engineering project is an **Internal Developer Platform (IDP)** designed to simplify infrastructure operations and enable developers to deploy applications through a self-service interface.
+> 🎯 **Currently looking for a final-year internship (PFE) in Cloud & DevOps**, where I can contribute to real-world projects, learn from experienced engineers, and help build reliable and secure infrastructure.
 
-I'm continuously developing my skills in cloud infrastructure, containerization, CI/CD, monitoring, and DevSecOps.
+<br/>
 
-### 🎯 Areas of Interest
-
-- ☁️ **Cloud Computing:** AWS, cloud infrastructure, networking, and IAM.
-- ⚙️ **Infrastructure as Code:** Terraform and Ansible.
-- 🐳 **Containers & Orchestration:** Docker and Kubernetes.
-- 🔄 **CI/CD:** Git, GitHub Actions, and automated deployment workflows.
-- 📊 **Observability:** Prometheus, Grafana, and Alertmanager.
-- 🔐 **DevSecOps:** Infrastructure security and vulnerability scanning.
-- 🐧 **Linux & Automation:** Linux administration, Bash, and Python scripting.
-
-I'm looking for a **final-year internship (PFE) in Cloud & DevOps** where I can contribute to real-world projects, learn from experienced engineers, and help build reliable and secure infrastructure.
-
----
-
-## 💼 Experience
-
-### ☁️ Cloud & DevOps Engineering — Internal Developer Platform
-
-**tekKnow | Final-Year Engineering Project**
-
-Designed and developed an Internal Developer Platform to simplify the deployment of three-tier applications on AWS.
-
-The platform provides a self-service interface and an orchestration layer that connects infrastructure provisioning with automated configuration management, reducing the need for developers to manage infrastructure manually.
-
-**Key contributions:**
-
-- Designed the architecture connecting a React frontend to a FastAPI orchestration backend.
-- Automated AWS infrastructure provisioning using Terraform.
-- Automated server configuration and application deployment using Ansible.
-- Integrated Terraform and Ansible into a coordinated deployment workflow.
-- Worked with AWS networking, VPCs, public and private subnets, EC2, and environment isolation.
-- Implemented dynamic inventory and SSH-based access for configuration management.
-- Integrated AWS Secrets Manager for application and database credentials.
-- Explored infrastructure security and vulnerability scanning with Checkov and Trivy.
-
-**Technologies:**
-
-`AWS` `Terraform` `Ansible` `Python` `FastAPI` `React` `Linux` `Git`
-
-🔗 **[View Internal Developer Platform Repository](https://github.com/MohammedBentimzal/Internal_Developer_Plateform_Project)**
-
----
-
-### 💻 Software Development Engineer Intern
-
-**OCP Group | August – September 2024 · Benguerir, Morocco**
-
-- Developed an on-call management web application from scratch using Laravel.
-- Participated in requirements analysis, application design, and implementation.
-- Applied MVC architecture and full-stack development practices.
-
-**Technologies:** `Laravel` `PHP` `MySQL` `JavaScript`
-
----
-
-### 📝 Content Operations Specialist
-
-**Startgate / GetCata | April 2023 – January 2025 · Benguerir, Morocco**
-
-- Collaborated with cross-functional teams on content integration and platform improvements.
-- Worked with developers to improve user experience and content organization.
-
----
-
-## 🚀 Featured Projects
+<!-- ============================== FOCUS ============================== -->
+## 🧭 Areas of Focus
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### ☁️ Internal Developer Platform
+**☁️ Cloud**<br/>
+AWS, networking, VPC, IAM
 
-A self-service platform that automates the deployment of three-tier applications on AWS.
+**⚙️ Infrastructure as Code**<br/>
+Terraform, Ansible
 
-**Highlights**
+</td>
+<td width="33%" valign="top">
 
-- Automated infrastructure provisioning.
-- Automated server configuration.
-- Environment isolation.
-- API-based deployment orchestration.
+**🐳 Containers**<br/>
+Docker, Kubernetes
 
-**Stack**
+**🔄 CI/CD**<br/>
+Git, GitHub Actions
 
-`AWS` `Terraform` `Ansible` `FastAPI` `React`
+</td>
+<td width="33%" valign="top">
+
+**📊 Observability**<br/>
+Prometheus, Grafana, Alertmanager
+
+**🔐 DevSecOps**<br/>
+Checkov, Trivy, Linux, Bash
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ============================== FLAGSHIP ============================== -->
+## ⭐ Flagship Project: Internal Developer Platform
+
+<table>
+<tr>
+<td>
+
+**tekKnow · Final-Year Engineering Project**
+
+A self-service platform that simplifies the deployment of **three-tier applications on AWS**. It connects infrastructure provisioning with automated configuration management through an orchestration layer.
+
+```mermaid
+flowchart LR
+    A[⚛️ React UI] --> B[🐍 FastAPI Orchestrator]
+    B --> C[🏗️ Terraform]
+    C --> D[☁️ AWS Infrastructure]
+    B --> E[🔧 Ansible]
+    E --> D
+```
+
+**What I built**
+
+- 🏛️ Architecture linking a React frontend to a FastAPI orchestration backend
+- 🏗️ AWS provisioning with Terraform (VPCs, public/private subnets, EC2, environment isolation)
+- 🔧 Server configuration and app deployment with Ansible
+- 🔗 Terraform + Ansible integrated into one coordinated deployment workflow
+- 🧭 Dynamic inventory and SSH-based access for configuration management
+- 🔑 AWS Secrets Manager for application and database credentials
+- 🛡️ Security and vulnerability scanning exploration with Checkov and Trivy
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-334155?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-334155?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-334155?style=flat-square&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-334155?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-334155?style=flat-square&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-334155?style=flat-square&logo=git&logoColor=white"/>
+</p>
 
 <a href="https://github.com/MohammedBentimzal/Internal_Developer_Plateform_Project">
-  <img src="https://img.shields.io/badge/View%20Project-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="View project"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 SEO-op — SEO & AI Agent SaaS
-
-A SaaS platform providing two services: SEO optimization and an AI-powered chatbot that users can integrate into their websites.
-
-**Service 1 — SEO Optimization**
-
-- SEO-oriented tools to help users improve their website's search visibility.
-- Features designed to support website optimization.
-
-**Service 2 — AI Chatbot**
-
-- Users provide their own files as a knowledge source.
-- The platform provides a simple script for integrating the chatbot.
-- Website owners can embed the chatbot into their websites.
-
-**Focus**
-
-`SaaS` `SEO` `AI Agents` `Chatbots` `Web Integration`
-
-<a href="https://github.com/MohammedBentimzal/SEO-op">
-  <img src="https://img.shields.io/badge/View%20Project-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="View project"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 Medical Cabinet Management
-
-A web application for managing medical office operations, including patient records, appointments, and doctor workflows.
-
-**Stack**
-
-`Spring Boot` `Next.js` `MySQL`
-
-<a href="https://github.com/MohammedBentimzal/medical-cabinet">
-  <img src="https://img.shields.io/badge/View%20Project-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="View project"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🛍️ Clothing E-commerce Platform
-
-An e-commerce application featuring a product catalog, shopping cart, order management, and administrative functionality.
-
-**Stack**
-
-`Laravel` `MySQL` `Bootstrap`
-
-<a href="https://github.com/MohammedBentimzal/Plateforme_E-commerce_Pret_a_Porter">
-  <img src="https://img.shields.io/badge/View%20Project-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="View project"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Prim's Algorithm — Interactive Project
-
-An interactive application for exploring Prim's algorithm and understanding minimum spanning trees through graph-based visualization and algorithmic explanations.
-
-**Stack**
-
-`React` `Flask` `Python` `Graph Theory`
-
-<a href="https://github.com/MohammedBentimzal/Prim_algo_project">
-  <img src="https://img.shields.io/badge/View%20Project-0284C7?style=for-the-badge&logo=github&logoColor=white" alt="View project"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🏭 OCP On-Call Management
-
-A web application developed to manage on-call schedules and support the organization of operational responsibilities.
-
-**Stack**
-
-`Laravel` `PHP` `MySQL`
-
-<a href="https://github.com/MohammedBentimzal/Projet_gestion_d-Astreinte_OCP">
-  <img src="https://img.shields.io/badge/View%20Project-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="View project"/>
+  <img src="https://img.shields.io/badge/View%20Repository-0e7490?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b" alt="View repo"/>
 </a>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 🛠️ Technical Skills
+<!-- ============================== EXPERIENCE ============================== -->
+## 💼 Experience
 
-### ☁️ Cloud & Infrastructure
+| | Role | Highlights |
+|---|---|---|
+| **2025 – 2026**<br/>tekKnow | **Cloud & DevOps Engineering**<br/>Final-Year Project | Internal Developer Platform on AWS with Terraform, Ansible, FastAPI and React |
+| **Aug – Sep 2024**<br/>OCP Group<br/>Benguerir | **Software Development Engineer Intern** | Built an on-call management web app from scratch with Laravel; requirements analysis, design and implementation using MVC |
+| **Apr 2023 – Jan 2025**<br/>Startgate / GetCata<br/>Benguerir | **Content Operations Specialist** | Worked with cross-functional teams and developers on content integration, UX and content organization |
 
-<p>
-  <a href="https://aws.amazon.com/">
-    <img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS"/>
-  </a>
-  <a href="https://developer.hashicorp.com/terraform">
-    <img src="https://skillicons.dev/icons?i=terraform" height="48" alt="Terraform"/>
-  </a>
-  <a href="https://www.ansible.com/">
-    <img src="https://skillicons.dev/icons?i=ansible" height="48" alt="Ansible"/>
-  </a>
-  <a href="https://www.linux.org/">
-    <img src="https://skillicons.dev/icons?i=linux" height="48" alt="Linux"/>
-  </a>
-</p>
+<br/>
 
-### 🐳 Containers & Orchestration
+<!-- ============================== PROJECTS ============================== -->
+## 🚀 More Projects
 
-<p>
-  <a href="https://www.docker.com/">
-    <img src="https://skillicons.dev/icons?i=docker" height="48" alt="Docker"/>
-  </a>
-  <a href="https://kubernetes.io/">
-    <img src="https://skillicons.dev/icons?i=kubernetes" height="48" alt="Kubernetes"/>
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🔄 CI/CD & Version Control
+### 🤖 SEO-op
+**SEO & AI Agent SaaS**
 
-<p>
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" height="48" alt="Git"/>
-  </a>
-  <a href="https://github.com/features/actions">
-    <img src="https://skillicons.dev/icons?i=githubactions" height="48" alt="GitHub Actions"/>
-  </a>
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/>
-  </a>
-</p>
+Two services in one platform: SEO optimization tools, and an AI chatbot trained on the user's own files that can be embedded in any website with a simple script.
 
-### 📊 Monitoring & Observability
+`SaaS` `SEO` `AI Agents` `Chatbots`
 
-<p>
-  <a href="https://prometheus.io/">
-    <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
-  </a>
-  <a href="https://grafana.com/">
-    <img src="https://skillicons.dev/icons?i=grafana" height="48" alt="Grafana"/>
-  </a>
-  <a href="https://prometheus.io/docs/alerting/latest/alertmanager/">
-    <img src="https://img.shields.io/badge/Alertmanager-CC3333?style=for-the-badge&logo=prometheus&logoColor=white" alt="Alertmanager"/>
-  </a>
-</p>
+[🔗 View project](https://github.com/MohammedBentimzal/SEO-op)
 
-### 🔐 DevSecOps & Security
+</td>
+<td width="50%" valign="top">
 
-<p>
-  <a href="https://www.checkov.io/">
-    <img src="https://img.shields.io/badge/Checkov-IaC%20Security-0284C7?style=for-the-badge" alt="Checkov"/>
-  </a>
-  <a href="https://trivy.dev/">
-    <img src="https://img.shields.io/badge/Trivy-Vulnerability%20Scanning-38BDF8?style=for-the-badge" alt="Trivy"/>
-  </a>
-</p>
+### 🏥 Medical Cabinet Management
+Web app for managing patient records, appointments and doctor workflows.
 
-### 💻 Programming & Development
+`Spring Boot` `Next.js` `MySQL`
 
-**Languages**
+[🔗 View project](https://github.com/MohammedBentimzal/medical-cabinet)
 
-`Python` `Java` `JavaScript` `TypeScript` `PHP` `C` `C++` `Bash`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Backend**
+### 🛍️ Clothing E-commerce Platform
+Product catalog, shopping cart, order management and admin dashboard.
 
-`FastAPI` `Flask` `Django` `Spring Boot` `Laravel` `Node.js`
+`Laravel` `MySQL` `Bootstrap`
 
-**Frontend**
+[🔗 View project](https://github.com/MohammedBentimzal/Plateforme_E-commerce_Pret_a_Porter)
 
-`React` `Next.js` `HTML5` `CSS3` `Bootstrap` `Tailwind CSS`
+</td>
+<td width="50%" valign="top">
 
-**Databases**
+### 🧠 Prim's Algorithm Visualizer
+Interactive app to explore minimum spanning trees through graph visualization and step-by-step explanations.
 
-`PostgreSQL` `MySQL` `MongoDB` `Oracle DB` `SQLite` `Neo4j`
+`React` `Flask` `Python` `Graph Theory`
 
-**Other Technologies**
+[🔗 View project](https://github.com/MohammedBentimzal/Prim_algo_project)
 
-`Postman` `Apache Kafka` `Apache Spark` `REST APIs` `Git`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🏭 OCP On-Call Management
+Web app to manage on-call schedules and organize operational responsibilities.
 
+`Laravel` `PHP` `MySQL`
+
+[🔗 View project](https://github.com/MohammedBentimzal/Projet_gestion_d-Astreinte_OCP)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ============================== SKILLS ============================== -->
+## 🛠️ Tech Stack
+
+**☁️ Cloud & Infrastructure**<br/>
+<img src="https://skillicons.dev/icons?i=aws,terraform,ansible,linux,bash" alt="Cloud"/>
+
+**🐳 Containers & Orchestration**<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Containers"/>
+
+**🔄 CI/CD & Version Control**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions" alt="CI/CD"/>
+
+**📊 Monitoring**<br/>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Monitoring"/>
+<img src="https://img.shields.io/badge/Alertmanager-334155?style=for-the-badge&logo=prometheus&logoColor=white" height="40" alt="Alertmanager"/>
+
+**🔐 DevSecOps**<br/>
+<img src="https://img.shields.io/badge/Checkov-IaC%20Security-0e7490?style=for-the-badge" alt="Checkov"/>
+<img src="https://img.shields.io/badge/Trivy-Vulnerability%20Scanning-0369a1?style=for-the-badge" alt="Trivy"/>
+
+**💻 Languages**<br/>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,php,c,cpp" alt="Languages"/>
+
+**🧩 Backend & Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,spring,laravel,nodejs,react,nextjs,html,css,bootstrap,tailwind" alt="Frameworks"/>
+
+**🗄️ Databases & Data**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,neo4j,kafka,spark,postman" alt="Databases"/>
+
+<br/>
+
+<!-- ============================== GITHUB STATS ============================== -->
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MohammedBentimzal&show_icons=true&hide_border=true&bg_color=0,0f172a,134e4a&title_color=5eead4&icon_color=38bdf8&text_color=e2e8f0&border_radius=12" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedBentimzal&layout=compact&hide_border=true&bg_color=0,0f172a,134e4a&title_color=5eead4&text_color=e2e8f0&border_radius=12" alt="Top languages"/>
+
+</div>
+
+<br/>
+
+<!-- ============================== LEADERSHIP ============================== -->
 ## 🏆 Leadership & Activities
 
-- 📢 **Conferences & Workshops Manager — OpenSource Days, ENSA Khouribga:** Organized technical talks and coordinated sessions with industry speakers.
-- 🎨 **Media & Design Lead — EPIC ENSAK Club:** Led design activities and contributed to humanitarian initiatives.
-- 🤝 **Health Event Organizer — Ataa & Alyakouta Associations:** Participated in organizing a three-day event, including logistics and team coordination.
+- 📢 **Conferences & Workshops Manager** · OpenSource Days, ENSA Khouribga: organized technical talks and coordinated sessions with industry speakers
+- 🎨 **Media & Design Lead** · EPIC ENSAK Club: led design activities and contributed to humanitarian initiatives
+- 🤝 **Health Event Organizer** · Ataa & Alyakouta Associations: helped organize a three-day event (logistics and team coordination)
 
----
+<br/>
 
 ## 🌍 Languages
 
-| Language | Proficiency |
-|---|---|
-| 🇲🇦 Arabic | Native |
-| 🇫🇷 French | Fluent |
-| 🇬🇧 English | Fluent |
-| 🇪🇸 Spanish | Beginner |
+<img src="https://img.shields.io/badge/🇲🇦%20Arabic-Native-0f766e?style=flat-square&labelColor=1e293b"/>
+<img src="https://img.shields.io/badge/🇫🇷%20French-Fluent-0e7490?style=flat-square&labelColor=1e293b"/>
+<img src="https://img.shields.io/badge/🇬🇧%20English-Fluent-0369a1?style=flat-square&labelColor=1e293b"/>
+<img src="https://img.shields.io/badge/🇪🇸%20Spanish-Beginner-475569?style=flat-square&labelColor=1e293b"/>
 
----
+<br/>
 
+<!-- ============================== FOOTER ============================== -->
 <div align="center">
 
 ## 🤝 Let's Connect
 
-I'm always interested in discussing cloud infrastructure, DevOps practices, automation, and innovative software projects.
+I'm always happy to talk about cloud infrastructure, DevOps practices, automation and innovative software projects.
 
 **Open to PFE internships in Cloud & DevOps Engineering.**
 
-<p>
-  <a href="mailto:mohammedbentimzal@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-0284C7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mohammed-bentimzal-b326b733b/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-  </a>
-</p>
+<a href="mailto:mohammedbentimzal@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-0e7490?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e293b" alt="Email me"/>
+</a>
+<a href="https://www.linkedin.com/in/mohammed-bentimzal-b326b733b/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0369a1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e293b" alt="LinkedIn"/>
+</a>
 
-<sub>ENSA Khouribga · Morocco · Expected Graduation: June 2027</sub>
+<sub>ENSA Khouribga · Morocco · Expected graduation: June 2027</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:0e7490,100:0369a1&height=110&section=footer" width="100%" alt="footer"/>
 
 </div>
