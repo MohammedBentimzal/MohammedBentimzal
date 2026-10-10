@@ -1,7 +1,6 @@
 <!-- ============================== HEADER ============================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:0e7490,100:0369a1&height=210&section=header&text=Mohammed%20Bentimzal&fontSize=44&fontColor=f8fafc&fontAlignY=36&desc=Cloud%20%26%20DevOps%20Engineering&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=14B8A6&center=true&vCenter=true&width=720&height=40&lines=Automating+infrastructure+%E2%98%81%EF%B8%8F;Building+cloud-native+solutions+%F0%9F%9A%80;Exploring+DevSecOps+%F0%9F%9B%A1%EF%B8%8F;Open+to+PFE+internships+%F0%9F%8E%AF" alt="Typing animation"/>
